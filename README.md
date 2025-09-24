@@ -1,3 +1,4 @@
+![logo](https://github.com/amritasingh27225/amritasingh27225/blob/main/AMRITA%20KUMARI.png)
 <h1 align="center">Hi 👋, I'm Amrita Kumari</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
