@@ -1,6 +1,6 @@
 ![logo](https://github.com/amritasingh27225/amritasingh27225/blob/main/AMRITA%20KUMARI.png)
 <h1 align="center">Hi 👋, I'm Amrita Kumari</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">Currently focusing on Frontend Development, learning modern web technologies to design interactive and responsive websites</h3>
 
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
